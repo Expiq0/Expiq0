@@ -12,18 +12,18 @@
 
 ---
 
-### 👋 مرحباً! أنا حيدر (Expiq0)
+### 👋 Hello! I'm Haidar (Expiq0)
 
-💻 **مطور ومهتم بالأمن السيبراني**<br>
-- مختص بـ **Python**, **Dart**, **Flutter**، و**VB.NET**<br>
-- خبرة قوية في **اختبار اختراق تطبيقات الويب** و **تحليل الثغرات**<br>
-- حاصل على شهادات متعددة في **الأمن السيبراني**، **الشبكات**، **استخدام لينكس**، واختبار اختراق الويب<br>
-- طالب **أمن سيبراني** وممارس مستقل على منصة **HackerOne** مع اكتشاف العديد من الثغرات<br>
-- أجيد **HTML, CSS, JavaScript** و **برمجة سكربتات الطرف الثالث** للمواقع الاجتماعية، إضافة إلى **بوتات تلغرام**<br>
+💻 **Developer and Cybersecurity Enthusiast**<br>
+- Skilled in **Python**, **Dart**, **Flutter**, and **VB.NET**<br>
+- Strong background in **Web Application Penetration Testing** and **Vulnerability Analysis**<br>
+- Holder of multiple certifications in **Cybersecurity**, **Networking**, **Linux Usage**, and **Web Pentesting**<br>
+- **Cybersecurity student** and independent practitioner on **HackerOne**, with multiple discovered vulnerabilities<br>
+- Proficient in **HTML, CSS, JavaScript**, and **Third-party script development** for social platforms, as well as **Telegram bots**<br>
 
 ---
 
-### 🚀 الأدوات والتقنيات التي أستخدمها
+### 🚀 Tools and Technologies I Use
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -43,11 +43,11 @@
 
 ---
 
-### 🌱 ماذا أفعل الآن؟
-- أعمل على تطوير مهاراتي في **الأمن السيبراني** و**اختبار اختراق الويب**.
-- أقوم ببرمجة **أدوات خاصة** لاختبار الأمان.
-- أهوى تحليل الأكواد المعقدة واكتشاف **الثغرات الذكية**.
-- أستمتع بتعلم كل جديد ومشاركة المعرفة.
+### 🌱 What I'm Working On Now
+- Advancing my skills in **Cybersecurity** and **Web Application Pentesting**.
+- Developing **custom tools** for security testing.
+- Passionate about analyzing complex code and finding **smart vulnerabilities**.
+- Always eager to learn and share knowledge.
 
 ---
 
@@ -61,9 +61,8 @@
 
 ---
 
-### 💡 بعض الحقائق الطريفة
-- 💡 تعلم البرمجة جعلني أنظر للعالم بشكل مختلف.
-- 🔐 أعشق **الأمن السيبراني** وأتحدى نفسي لاكتشاف **الثغرات الجديدة**.
+### 💡 Fun Facts
+- 💡 Learning to code made me see the world differently.
+- 🔐 I love **Cybersecurity** and challenging myself to find **new vulnerabilities**.
 
 ---
-
